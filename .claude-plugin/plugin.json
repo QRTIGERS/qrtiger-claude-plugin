@@ -1,0 +1,11 @@
+{
+  "name": "qrtiger",
+  "displayName": "QR Tiger",
+  "version": "1.0.0",
+  "description": "List, create, and manage QR codes, folders, and scan stats for a connected Professional or Enterprise QR Tiger account.",
+  "author": {
+    "name": "QR TIGER",
+    "url": "https://www.qrcode-tiger.com"
+  },
+  "license": "MIT"
+}

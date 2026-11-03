@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "qrtiger": {
+      "type": "http",
+      "url": "https://api.qrtiger.com/mcp"
+    }
+  }
+}
